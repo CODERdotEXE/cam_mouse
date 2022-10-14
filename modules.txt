@@ -1,0 +1,4 @@
+opencv-python~=4.5.5.62
+cvzone~=1.5.3
+numpy~=1.22.1
+autopy~=4.0.0
